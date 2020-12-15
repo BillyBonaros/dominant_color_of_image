@@ -1,7 +1,19 @@
+certifi==2020.12.5
+chardet==3.0.4
 click==7.1.2
 Flask==1.1.2
-gunicorn==20.0.4
+idna==2.10
 itsdangerous==1.1.0
 Jinja2==2.11.2
-MarkupSafe==1.1.1
+MarkupSafe @ file:///opt/concourse/worker/volumes/live/fac44ebc-60de-4182-7f89-29bb8796c554/volume/markupsafe_1607027351541/work
+numpy==1.19.4
+olefile==0.46
+pandas==1.1.5
+Pillow @ file:///opt/concourse/worker/volumes/live/1160dfb1-b420-4470-4b20-1ac8ef693db2/volume/pillow_1607027374872/work
+python-dateutil==2.8.1
+pytz==2020.4
+requests==2.25.0
+six==1.15.0
+urllib3==1.26.2
+webcolors==1.11.1
 Werkzeug==1.0.1
